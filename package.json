@@ -1,0 +1,14 @@
+{
+  "name": "appsync-backend",
+  "private": true,
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "serverless": "^2.4.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
